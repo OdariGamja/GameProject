@@ -33,6 +33,8 @@ Linux環境上で開発したネットワーク型マルチプレイ対戦ゲー
 ## Screenshots
 <img width="1050" height="630" alt="illust" src="https://github.com/user-attachments/assets/a365fe91-bf3d-4863-b7ca-1962e4df1e25" />
 
+## Ingame Video
+[Watch on YouTube](https://www.youtube.com/watch?v=1rX-zDNSr98)
 
 
 ## How to Build
